@@ -124,3 +124,57 @@ Following are the major benefits of implementing DevOps automation:
 - Removal of the possibility of human error from the CD equation (Core benefit)
 - As tasks become more predictable and repeatable, it is easy to identify and correct when something goes wrong. Hence, it results in producing more reliable and robust systems
 - Removes bottlenecks from the CI pipeline. It results in increased deployment frequency and decreased number of failed deployments. Both of them are important DevOps KPIs
+
+## post mortem meetings
+---
+Many times there is a need to discuss what went wrong during a DevOps process. For this, post mortem meetings are arranged. These meetings yield steps that should be taken to avoid the same failure or set of failures in the future for which the meeting was arranged in the first place.
+
+## Draw a comparison between Asset Management and Configuration Management.
+---
+- The process of monitoring as well as maintaining things of value to an entity or group is called an Asset Management.
+- Configuration Management refers to the process of controlling, identifying, planning for, and verifying the configuration items within service in support of Change Management.
+
+## Please explain the core operations of DevOps in terms of development and infrastructure.
+---
+Core operations of DevOps in terms of development and infrastructure are:
+
+- Application development – Developing a product that is able to meet all customer requirements and offers a remarkable level of quality
+- Code coverage – Measurement of the total number of blocks or lines or arcs of the code executed while the automated tests are running
+- Code developing – Prepare the code base required for the product development
+- Configuration – Allowing the product to be used in an optimum way
+- Deployment – Installing the software to be used by the end-user
+- Orchestration – Arrangement of several automated tasks
+- Packaging – Activities involved when the release is ready for deployment
+- Provisioning – Ensuring that the infrastructure changes arrive just-in-time with the code that requires it
+- Unit testing – Meant for testing individual units or components
+
+## What Do You Know about DevOps?
+---
+Your answer must be simple and straightforward. Begin by explaining the growing importance of DevOps in the IT industry. Discuss how such an approach aims to synergize the efforts of the development and operations teams to accelerate the delivery of software products, with a minimal failure rate. Include how DevOps is a value-added practice, where development and operations engineers join hands throughout the product or service lifecycle, right from the design stage to the point of deployment.
+
+
+## Why Has DevOps Gained Prominence over the Last Few Years?
+---
+- Before talking about the growing popularity of DevOps, discuss the current industry scenario. Begin with some examples of how big players such as Netflix and Facebook are investing in DevOps to automate and accelerate application deployment and how this has helped them grow their business. Using Facebook as an example, you would point to Facebook’s continuous deployment and code ownership models and how these have helped it scale up but ensure the quality of experience at the same time. Hundreds of lines of code are implemented without affecting quality, stability, and security.
+- Your next use case should be Netflix. This streaming and on-demand video company follow similar practices with fully automated processes and systems. Mention the user base of these two organizations: Facebook has 2 billion users while Netflix streams online content to more than 100 million users worldwide.
+- These are great examples of how DevOps can help organizations to ensure higher success rates for releases, reduce the lead time between bug fixes, streamline and continuous delivery through automation, and an overall reduction in manpower costs.
+
+## Which Are Some of the Most Popular DevOps Tools? Do You Have Experience Working with Any of These Tools?
+---
+The more popular DevOps tools include:
+- Selenium
+- Puppet
+- Chef
+- Git
+- Jenkins
+- Ansible
+- Docker
+
+## Do You Want to Master All These Devops Tools?
+---
+Thoroughly describe any tools that you are confident about, what it’s abilities are and why you prefer using it. For example, if you have expertise in Git, you would tell the interviewer that Git is a distributed Version Control System (VCS) tool that allows the user to track file changes and revert to specific changes when required. Discuss how Git’s distributed architecture gives it an added edge where developers make changes locally and can have the entire project history on their local Git repositories, which can be later shared with other team members.
+
+## Agile vs DevOps
+---
+As a DevOps Engineer, interview questions like this are quite expected. Start by describing the obvious overlap between DevOps and Agile. Although the implementation of DevOps is always in sync with Agile methodologies, there is a clear difference between the two. The principles of Agile are associated with seamless production or development of a piece of software. On the other hand, DevOps deals with the development, followed by deployment of the software, ensuring faster turnaround time, minimum errors, and reliability.
+
