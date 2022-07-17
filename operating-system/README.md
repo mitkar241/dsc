@@ -51,6 +51,12 @@ first command show all running processes, then, transfer stdout to stdin of seco
 ## What is RAID0, RAID1, RAID5, RAID10
 ---
 
+## Diﬀerence between RAID 0, 1 and 5
+---
+
+## What’s the advantage of one RAID over another
+---
+
 ## General file system hierarchy of a Linux system.
 ---
 
@@ -147,4 +153,7 @@ I run binary with strace, for example: strace binary_name
 ---
 
 ## You have accidentally deleted a running script, how could you restore it ?
+---
+
+## Alternative to init.d in Linux
 ---
