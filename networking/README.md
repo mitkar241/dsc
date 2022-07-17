@@ -60,3 +60,6 @@ Public/private certificates, CAs, proxying, MiTM, etc.
 
 ## What is a virtual IP address? What is a cluster?
 ---
+
+## check DNS records in Linux
+---
