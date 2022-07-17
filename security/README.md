@@ -28,3 +28,8 @@
 ## How do you keep encryption keys and credentials secure but make them available to machines that need them
 ---
 
+## authorization vs authentication
+---
+
+## two-factor authentication
+---
