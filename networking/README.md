@@ -29,7 +29,16 @@ discuss at every OSI layer - Physical, data link, network, transport, session, p
 ## BGP
 ---
 
-## What’s a PTR in DNS
+## PTR in DNS
+---
+
+## MX record in DNS
+---
+
+## How a CDN chooses the closest host to serve a client
+---
+
+## In which cases would you choose to not implement a CDN
 ---
 
 ## What if I change from http://www.yahoo.com to https://www.yahoo.com  ?
