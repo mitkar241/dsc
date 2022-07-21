@@ -2,6 +2,7 @@
 ---
 
 - [ ] [Top Docker Interview Questions and Answers - intellipaat](https://intellipaat.com/blog/interview-question/docker-interview-questions-answers/)
+- [ ] [Top 50 Docker Interview Questions You Must Prepare In 2022 - edureka](https://www.edureka.co/blog/interview-questions/docker-interview-questions/)
 
 ## What is Docker?
 ---
