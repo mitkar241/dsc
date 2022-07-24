@@ -23,10 +23,10 @@
 ---
 discuss at every OSI layer - Physical, data link, network, transport, session, presentation, application
 
-## DNS & anycast, IP, UDP, routing, BGP, TCP, HTTP, transparent proxy
+## DNS
 ---
 
-## BGP
+## check DNS records in Linux
 ---
 
 ## PTR in DNS
@@ -35,10 +35,13 @@ discuss at every OSI layer - Physical, data link, network, transport, session, p
 ## MX record in DNS
 ---
 
-## How a CDN chooses the closest host to serve a client
+## CDN
 ---
 
-## In which cases would you choose to not implement a CDN
+### How a CDN chooses the closest host to serve a client
+---
+
+### In which cases would you choose to not implement a CDN
 ---
 
 ## What if I change from http://www.yahoo.com to https://www.yahoo.com  ?
@@ -61,5 +64,20 @@ Public/private certificates, CAs, proxying, MiTM, etc.
 ## What is a virtual IP address? What is a cluster?
 ---
 
-## check DNS records in Linux
+## anycast
+---
+
+## IP
+---
+
+## UDP
+---
+
+## BGP
+---
+
+## routing
+---
+
+## transparent proxy
 ---
