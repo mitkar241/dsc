@@ -73,7 +73,7 @@ first command show all running processes, then, transfer stdout to stdin of seco
 
 ## Command line demo
 ---
-### Search for "my konfu is the best" in all *.py files
+### Search for "this is test string" in all *.py files
 ---
 
 ### Replace the occurrence of "my konfu is the best" with "I'm a linux jedi master" in all *.txt files
