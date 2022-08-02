@@ -45,13 +45,6 @@ The acronym CAMS is usually used for describing the core creeds of DevOps method
 - Measurement
 - Sharing
 
-## Post-Mortem Meetings
----
-Many times there is a need to discuss what went wrong during a DevOps process. For this, post mortem meetings are arranged. These meetings yield steps that should be taken to avoid the same failure or set of failures in the future for which the meeting was arranged in the first place.
-
-## What is the purpose of a post-mortem meeting? Do you know how to learn from mistakes?
----
-
 ## Tell me about the worst-run/best-run outage you've been a part of. What made it bad/well-run?
 ---
 Take lessons from both failures and successes in dealing with outages.
@@ -72,5 +65,5 @@ So that you can figure out what happened quickly if/when something goes wrong.
 ---
 While it’s going to be your job to stop interruptions, how you deal with them now is important for getting an idea of if you know how to fix them quickly and if you know how to make devs and ops work together.
 
-# Describe a dev/test/production workﬂow using GIT
+## Describe a dev/test/production workﬂow using GIT
 ---
