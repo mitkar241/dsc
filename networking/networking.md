@@ -2,6 +2,7 @@
 ---
 
 - [x] [Networking Interview Questions - interviewbit](https://www.interviewbit.com/networking-interview-questions/)
+- [ ] [Top 100 Networking Interview Questions and Answers for 2022 - naukri](https://www.naukri.com/learning/articles/networking-interview-questions-answers/)
 
 ## Network
 ---
