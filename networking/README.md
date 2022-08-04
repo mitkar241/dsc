@@ -23,18 +23,6 @@
 ---
 discuss at every OSI layer - Physical, data link, network, transport, session, presentation, application
 
-## DNS
----
-
-## check DNS records in Linux
----
-
-## PTR in DNS
----
-
-## MX record in DNS
----
-
 ## CDN
 ---
 
