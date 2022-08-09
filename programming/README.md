@@ -19,12 +19,6 @@
 - Polynomial
 - NP Complete / NP Hard
 
-## fastest sorting algorithm
----
-
-## complexity of quick sort
----
-
 ## Distributed systems
 ---
 
