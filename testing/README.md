@@ -1,6 +1,8 @@
 # Testing
 ---
 
+- `Todo`: go through basic testing patterns
+
 ## What is Selenium used for?
 ---
 Selenium is used for continuous testing in DevOps. The tool specializes in functional and regression forms of testing.
