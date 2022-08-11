@@ -1,12 +1,6 @@
 # Networking
 ---
 
-## IPv6
----
-
-## IPv6 - need
----
-
 ## Ping
 ---
 
@@ -53,9 +47,6 @@ Public/private certificates, CAs, proxying, MiTM, etc.
 ---
 
 ## anycast
----
-
-## IP
 ---
 
 ## UDP
