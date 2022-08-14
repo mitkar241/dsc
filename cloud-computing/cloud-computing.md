@@ -1,9 +1,6 @@
 # Cloud Computing
 ---
 
-## Have you used AWS or other cloud platforms? How long for?
----
-
 ## In production or just at home on personal projects?
 ---
 
