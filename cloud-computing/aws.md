@@ -10,6 +10,9 @@ When asked this question in an interview, get straight to the point by explainin
 - Start by talking about the age-old mechanisms of writing commands onto script files and testing them in a separate environment before deployment and how this approach is being replaced by IaC. Similar to the codes written for other services, with the help of AWS, IaC allows developers to write, test, and maintain infrastructure entities in a descriptive manner, using formats such as JSON or YAML. This enables easier development and faster deployment of infrastructure changes.
 - Go through this Simplilearn video on “DevOps Interview Questions” delivered by our DevOps certification expert that will help you crack any interview.
 
+## Have you used AWS or other cloud platforms? How long for?
+---
+
 ## AMI vs an EC2 instance
 ---
 
