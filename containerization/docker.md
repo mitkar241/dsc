@@ -305,3 +305,21 @@ docker container run -v [/host/volume/location]:[/container/storage] [docker_ima
 ## Tell us how you have used Docker in your past position.
 ---
 This is a question wherein we could bring upon our whole experience with Docker and any other Container technologies we have used prior to Docker. We could also explain the ease that this technology has brought in the automation of the development-to-production life cycle management. We can also discuss any other integrations that we might have worked, along with Docker, such as Puppet, Chef, or even the most popular of all technologies—Jenkins. If we do not have any experience with Docker but we have it with similar tools from this space, we could convey the same and also show our interest in learning this leading containerization technology.
+
+## Docker need
+---
+
+## Docker CLI to show all containers
+---
+
+## delete image with container
+---
+
+## delete all old unused images
+---
+
+## reduce docker images
+---
+
+## docker image storage location
+---
