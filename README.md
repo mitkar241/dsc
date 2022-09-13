@@ -1,26 +1,25 @@
 # Interview
 ---
-This Repo contains Study Materials
+Repository with DevOps / SRE `interview questions`.
 
 | File | Description |
 | --- | --- |
-| [b](./resource.md) | a |
-| [b](./architecture.md) | a |
-| [b](./architecture.md) | a |
-| [b](./basic.md) | a |
-| [b](./cloud-computing.md) | a |
-| [b](./config-management.md) | a |
-| [b](./containerization.md) | a |
-| [b](./container-orchestration.md) | a |
-| [b](./database.md) | a |
-| [b](./devops.md) | a |
-| [b](./monitoring.md) | a |
-| [b](./networking.md) | a |
-| [b](./operating-system.md) | a |
-| [b](./pipeline.md) | a |
-| [b](./programming.md) | a |
-| [b](./scm.md) | a |
-| [b](./security.md) | a |
-| [b](./sre.md) | a |
-| [b](./testing.md) | a |
-| [b](./webserver.md) | a |
+| [resource](./resource.md) | resource blogs / websites |
+| [basic](./basic.md) | basic / general questions |
+| [architecture](./architecture.md) | design related questions |
+| [cloud-computing](./cloud-computing.md) | cloud related questions |
+| [config-management](./config-management.md) | config management related questions |
+| [containerization](./containerization.md) | containerization related questions |
+| [container-orchestration](./container-orchestration.md) | container orchestration related questions |
+| [database](./database.md) | database related questions |
+| [devops](./devops.md) | devops related questions |
+| [sre](./sre.md) | sre related questions |
+| [monitoring](./monitoring.md) | monitoring strategy related questions |
+| [networking](./networking.md) | networking related questions |
+| [operating-system](./operating-system.md) | operating system related questions |
+| [pipeline](./pipeline.md) | pipeline related questions |
+| [programming](./programming.md) | programming related questions |
+| [scm](./scm.md) | Source Code Management related questions |
+| [security](./security.md) | security best practices |
+| [testing](./testing.md) | Testing related questions |
+| [webserver](./webserver.md) | Webserver concepts related questions |
