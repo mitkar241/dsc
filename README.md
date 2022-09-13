@@ -1,6 +1,6 @@
 # Interview
 ---
-Repository with DevOps / SRE `interview questions`.
+Repository with DevOps / SRE `Interview Questions`.
 
 | File | Description |
 | --- | --- |
