@@ -1,3 +1,21 @@
+# Operating System
+---
+
+# RAID
+---
+
+## RAID
+---
+
+## What is RAID0, RAID1, RAID5, RAID10
+---
+
+## Diﬀerence between RAID 0, 1 and 5
+---
+
+## What’s the advantage of one RAID over another
+---
+
 # Linux
 ---
 
@@ -153,3 +171,18 @@ I run binary with strace, for example: strace binary_name
 ---
 - Ubuntu - very fresh kernels and packages
 - CentOS/RHEL - Enterprise and stability
+
+# Windows
+---
+
+## Are you familiar with just linux or have you worked with Windows environmentsas well?
+---
+
+## powershell
+---
+
+## Octopus Deploy
+---
+
+## Active Directory
+---

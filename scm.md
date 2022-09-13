@@ -1,4 +1,4 @@
-# VCS
+# SCM
 ---
 
 ## Version Control System (VCS)

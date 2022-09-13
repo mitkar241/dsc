@@ -42,3 +42,12 @@
 
 ## More on Front-end Developer Job Interview Questions
 ---
+
+# Sorting
+---
+
+## fastest sorting algorithm
+---
+
+## complexity of quick sort
+---

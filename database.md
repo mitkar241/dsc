@@ -9,3 +9,12 @@
 
 ## What would be the availability and performance metrics for a key value store ?
 ---
+
+# MySQL
+---
+
+## How to choose between relational database and noSQL?
+---
+
+## What about for MySQL replication ?
+---

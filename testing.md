@@ -1,7 +1,9 @@
 # Testing
 ---
 
-- `Todo`: go through basic testing patterns
+## TODO
+---
+- [ ] go through basic testing patterns
 
 ## What is Selenium used for?
 ---
