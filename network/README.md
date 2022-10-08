@@ -7,6 +7,14 @@
 - [x] [Networking Interview Questions - interviewbit](https://www.interviewbit.com/networking-interview-questions/)
 - [ ] [Top 100 Networking Interview Questions and Answers for 2022 - naukri](https://www.naukri.com/learning/articles/networking-interview-questions-answers/)
 
+## Topics
+---
+- [OSI model](https://medium.com/srendevops/osi-model-networking-series-1-84f4c766ead9)
+- [TCP IP](https://medium.com/srendevops/tcp-ip-network-series-blog-3-f0421578177)
+- [UDP traffic](https://medium.com/srendevops/udp-networking-series-2-46429319c48c)
+- DNS
+- DHCP
+
 ## Network
 ---
 According to Merriam Webster, Network is usually an informally interconnected group or association of different entities like a person, computers, radio stations, etc.
