@@ -12,3 +12,14 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 ## Resources
 ---
 - [medium - srendevops](https://medium.com/srendevops)
+
+## TODO
+---
+- [ ] Gantt Chart
+- [ ] Swimlane
+- [ ] Cross-cutting Concern
+- [ ] PMR - Program Management Review
+- [ ] MVP
+- [ ] Granular Change / Problem Solving
+- [ ] Velocity - Story Points
+- [ ] Resource - Engg
