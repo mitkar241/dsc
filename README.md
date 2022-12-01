@@ -23,3 +23,8 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 - [ ] Granular Change / Problem Solving
 - [ ] Velocity - Story Points
 - [ ] Resource - Engg
+- [ ] Migration Plan
+- [ ] Technical Debt
+- [ ] If it ain't broke, don't fix it
+- [ ] RTFM
+- [ ] KISS
