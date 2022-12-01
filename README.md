@@ -28,3 +28,4 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 - [ ] If it ain't broke, don't fix it
 - [ ] RTFM
 - [ ] KISS
+- [ ] Customer Churn
