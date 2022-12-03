@@ -11,7 +11,8 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 
 ## Resources
 ---
-- [medium - srendevops](https://medium.com/srendevops)
+- [ ] [medium - srendevops](https://medium.com/srendevops)
+- [ ] [kodekloud - DevOps Interview Preparation Course](https://kodekloud.com/courses/devops-interview-prep-course/)
 
 ## TODO
 ---
