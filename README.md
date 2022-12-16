@@ -30,3 +30,4 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 - [ ] RTFM
 - [ ] KISS
 - [ ] Customer Churn
+- [ ] Build vs Buy
