@@ -31,3 +31,5 @@ Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 - [ ] KISS
 - [ ] Customer Churn
 - [ ] Build vs Buy
+- [ ] IP - Intellectual Property
+- [ ] PII - Personal Identifiable Information
