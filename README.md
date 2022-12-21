@@ -2,6 +2,12 @@
 ---
 Repository containing articles on `DSC (DevOps - SRE - Cloud)`.
 
+## TODO
+---
+Plan the Repo properly
+
+Need to document direction properly
+
 ## Roles
 ---
 - DevOps Engineer
